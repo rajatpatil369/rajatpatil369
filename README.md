@@ -2,17 +2,15 @@
 
 🔌 Passionate about making things and exploring the intersection of programming and electronics. I thrive on new challenges and opportunities that push the boundaries of my skills.
 
-💡 As a highly motivated and creative individual, I have a wealth of experience in electronics design, circuitry, and firmware development. Proficient with microcontrollers like Arduino, Raspberry Pi, and ESP32, I create innovative projects that tackle real-world problems.
+💡 As a highly motivated and creative individual, I have a wealth of experience in electronics design, circuitry, and firmware development. Proficient with microcontrollers like Arduino, Raspberry Pi, and ESP32, I create innovative projects that tackle real-world problems. As a hobby, I derive pleasure from coding by automating daily tasks, crafting utility programs/scripts, and constantly exploring new technologies.
 
-💻 Skills: Python 🐍 | C/C++ | Embedded System Design | PCB Layout | VHDL/Verilog | Circuit Design | Sensors & Interfacing | Protocols (I2C, SPI, UART) | Git & GitHub | HTML/CSS/JS | Windows/Linux
+💻 Skills: Circuit Design | C/C++ | PCB Layout and Designing | Git & GitHub | Embedded System Design | VHDL/Verilog | Sensors & Interfacing | Communication Protocols (I2C, SPI, UART, MQTT) | Windows and Unix/Linux | Python | Java | HTML/CSS/JS | FLutter
 
-🎓 Education: B.E. Electronics & Tele-Communication Engineering (Shri. Sant Gajanan Maharaj COE)
+🎓 Education: B.E. Electronics & Tele-Communication Engineering (Shri. Sant Gajanan Maharaj COE, Shegaon), Diploma Electronics & Communication Engineering (Government Polytechnic, Khamgaon)
 
-📜 Certifications: Python, Build Your First Android App, Programming & Data Structures with Python, Embedded System Design with ARM, Hardware Modeling using Verilog, Introduction to Internet of Things
+📜 Certifications: Python, Build Your First Android App, Programming & Data Structures with Python, Embedded System Design with ARM, Hardware Modeling using Verilog, Introduction to Internet of Things, NIELIT Online Workshops based on trending technologies.
 
-🔨 Projects: From individual Android apps and web scraping to home automation and security systems, I have a passion for project-based learning. Currently contributing to a team project on smart classroom technology.
-
-🏆 Achievements: NPTEL certifications, including Embedded System Design with ARM and Hardware Modeling using Verilog, with exceptional scores.
+🔨 Projects: I have a passion for project-based learning. Among the projects I have undertaken so far, notable ones include embedded system design projects such as home automation and security systems, remote slide switcher, and accident detection and prevention systems. Additionally, I have also completed pure software-based projects like application development, web scraping, scripting and automation. Currently contributing to a project on digital notice board technology.
 
 🌐 Connect with me:
 - Email: [57714patilrk@gmail.com](mailto:57714patilrk@gmail.com)
